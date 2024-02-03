@@ -3,10 +3,10 @@
 
 return[
 
-'username'=>'09916408929',
-'password'=>'BF@4O',
+'username'=>'',
+'password'=>'',
 
-'otp_from'=>'50004001008929'
+'otp_from'=>''
 
 
 ];
